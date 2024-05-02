@@ -1,0 +1,28 @@
+.titolo-logo {
+    color: black;
+    font-size: x-small;
+    background-color: antiquewhite;
+    padding: 10px;
+    border-top: 2px orange solid;
+    text-align: center;
+}
+.focaccia {
+text-align: center;
+}
+.sally {
+    text-align: center;
+    color: cadetblue;
+}
+.featured {
+    border-left: 1px solid orange;
+    color: red;
+    padding-left: 10px;
+}
+.sottolineamento{
+    border-left: 1px solid orange;
+    color: cadetblue;
+    padding-left: 10px;
+}
+.simply-recipes {
+    color: cadetblue;
+}
